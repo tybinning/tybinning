@@ -31,5 +31,5 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
 ### 🙌🏻 Connect with Me
 <ul>
   <li><a href="https://www.linkedin.com/in/tyler-binning-089849267/">LinkedIn<a></li>
-   <li><a href="">Kaggle<a></li>
+   <li><a href="https://www.kaggle.com/tylerbinning">Kaggle<a></li>
 </ul>
