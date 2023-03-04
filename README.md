@@ -3,7 +3,7 @@
 Welcome to my data science Github profile! I am a data enthusiast with a passion for using data to drive insights and solve complex problems. With a few years of experience in the field, I am proficient in a wide range of data science techniques, including data analysis, machine learning, and data visualization.
 
 ### 📚 Projects & Guides 📚
-In my portfolio, you can find my follow my <a href="https://github.com/tybinning/Protfolio-Guide"> portfolio guide</a> for a glimpse at 
+Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> project portfolio</a>. 
 
 ### 💡 My Skills
 <ul>
