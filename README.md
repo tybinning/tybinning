@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Introduction 👋
 
 Welcome to my data science Github profile! I am a data enthusiast with a passion for using data to drive insights and solve complex problems. With a few years of experience in the field, I am proficient in a wide range of data science techniques, including data analysis, machine learning, and data visualization.
 
