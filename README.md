@@ -24,7 +24,6 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
   <li>Visualization: Matplotlib, Plotly, Altair, GGplot</li>
   <li>R: Tidyverse, Pander, Dplyr</li>
   <li>Statistical Tests: T-test, Wilcoxon, Kruskal Wallis, ANOVA, Linear Regression, Logistic Regression</li>
-  <li>Web Developement: HTML, CSS, DJANGO</li>
   <li>Report Building: Markdown, Quarto</li>
 </ul>
 
