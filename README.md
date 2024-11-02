@@ -7,7 +7,7 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
 
 ### 💡 My Skills
 <ul>
-  <li>Data preparation, quality assurance, and analysis<li/>
+  <li>Data preparation, quality assurance, and analysis</li>
   <li>Data Collection and Cleaning</li>
   <li>Database Design and Modeling</li>
   <li>Data Anlysis & Statistical Anlysis</li>
@@ -19,7 +19,7 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
 <ul>
   <li>Databases: SQL(MySQL, SQLlte, SMSS), Execel / Sheets </li>
   <li>Python: Numpy, Pandas, Datetime, Time, Requests, CleanText</li>
-  <li>PySpark <li>
+  <li>PySpark </li>
   <li>Machine Learning: Scikit-learn, TensorFlow, Keras</li>
   <li>Web Scraping: BeautifulSoup</li>
   <li>Visualization: Matplotlib, Plotly, GGplot</li>
