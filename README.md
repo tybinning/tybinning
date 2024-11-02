@@ -17,18 +17,19 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
 
 ### 🛠️ My Tools
 <ul>
-  <li>Databases: SQL(MySQL, SQLlte), Execel / Sheets </li>
+  <li>Databases: SQL(MySQL, SQLlte, SMSS), Execel / Sheets </li>
   <li>Python: Numpy, Pandas, Datetime, Time, Requests, CleanText</li>
-  <li>Machine Learning: Scikit-learn</li>
+  <li>PySpark <li>
+  <li>Machine Learning: Scikit-learn, TensorFlow, Keras</li>
   <li>Web Scraping: BeautifulSoup</li>
-  <li>Visualization: Matplotlib, Plotly, Altair, GGplot</li>
+  <li>Visualization: Matplotlib, Plotly, GGplot</li>
   <li>R: Tidyverse, Pander, Dplyr</li>
   <li>Statistical Tests: T-test, Wilcoxon, Kruskal Wallis, ANOVA, Linear Regression, Logistic Regression</li>
   <li>Report Building: Markdown, Quarto</li>
+  <li> PowerBi </li>
 </ul>
 
 ### 🙌🏻 Connect with Me
 <ul>
   <li><a href="https://www.linkedin.com/in/tyler-binning-089849267/">LinkedIn<a></li>
-   <li><a href="https://www.kaggle.com/tylerbinning">Kaggle<a></li>
 </ul>
