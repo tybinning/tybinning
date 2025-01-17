@@ -7,6 +7,7 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
 
 ### 💡 My Skills
 <ul>
+  <li> Machine Learning </li>
   <li>Data preparation, quality assurance, and analysis</li>
   <li>Data Collection and Cleaning</li>
   <li>Database Design and Modeling</li>
@@ -22,11 +23,12 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
   <li>PySpark </li>
   <li>Machine Learning: Scikit-learn, TensorFlow, Keras</li>
   <li>Web Scraping: BeautifulSoup</li>
-  <li>Visualization: Matplotlib, Plotly, GGplot</li>
+  <li>Visualization: Matplotlib, Seaborn, Plotly, GGplot/ Lets-Plot</li>
   <li>R: Tidyverse, Pander, Dplyr</li>
   <li>Statistical Tests: T-test, Wilcoxon, Kruskal Wallis, ANOVA, Linear Regression, Logistic Regression</li>
+  <li>Time Series Specific: ARIMA, ARIMAX, SARIMAX, Dicky Fuller </li>
   <li>Report Building: Markdown, Quarto</li>
-  <li> PowerBi </li>
+  <li> PowerBi, Tableau </li>
 </ul>
 
 ### 🙌🏻 Connect with Me
