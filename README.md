@@ -13,7 +13,6 @@ Take a look at my <a href="https://github.com/tybinning/Protfolio-Guide"> projec
   <li>Database Design and Modeling</li>
   <li>Data Anlysis & Statistical Anlysis</li>
   <li>Data Vizualization</li>
-  <li>Web Developement</li>
 </ul>
 
 ### 🛠️ My Tools
